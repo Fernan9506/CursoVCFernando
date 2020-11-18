@@ -1,2 +1,2 @@
-# CursoVCFernando
-Curso de Vision por computador
+# Curso Vision por Computador Fernando Hernandez
+Aqui se subiran las tareas
